@@ -60,6 +60,14 @@ You should use your tenant's **global administrator account** for the pre-lab ta
 This is the account that you created when setting up the Microsoft 365 tenant. (youradmin@yourrandomaad.onmicrosoft.com) 
 It is not one of the pre-existing demo accounts such as *Adele Vance* or *Alex Wilber*.
 
+## Verify Prereqs
+
+To verify the prereqs, please complete the following steps:
+* Login to https://admin.microsoft.com/ and verify that you have access. If not, sign-up for a trial [here](https://www.microsoft.com/en-us/microsoft-365/try)
+* Login to https://intune.microsoft.com/ and verify that you have access. If not, follow the steps [here](https://learn.microsoft.com/en-us/mem/intune/fundamentals/free-trial-sign-up).
+
+## Pre-Lab Steps
+
 Please work through the below steps before starting the first lab.
 
 ## Designate your user accounts for this and future labs 
